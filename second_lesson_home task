@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/style_newtry.css">
+    <title>css</title>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="container">
+            <div class="slider">
+                <div class="slider-container">
+                    <img src="img/corgi_happy.jpg" alt="">
+                    <img src="img/corgi_light.jpg" alt="">
+                    <img src="img/corgi_royal.jpg" alt="">
+                </div>    
+            </div>
+            <section>
+                <h2>Lorem ipsum dolor sit amet, <br> consectetur adipisicing elit. In sed.</h2>
+                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam cum quas culpa vitae rerum consequuntur <br> dignissimos doloremque suscipit officiis! <br>
+                    Fugit sit accusantium quasi consequatur nostrum, provident eius aperiam, ipsam obcaecati sint veritatis dolorum laboriosam quam illo aut nam excepturi
+                    molestias eligendi iusto quod ex deserunt. Provident itaque sint dolor!
+                </p>
+                <button> download </button>
+            </section>
+        </div>
+    </div>
+</body>
+</html>
